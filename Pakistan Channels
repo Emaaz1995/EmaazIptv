@@ -453,5 +453,5 @@ https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8?checkedby:iptvcat.net
 https://live.ptv.com.pk/live/ptvworld/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Undefined",Tag TV (Opt-2)
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Undefined",Zindagi TV
-https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.net
+
+
